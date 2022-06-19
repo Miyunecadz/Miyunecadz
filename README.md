@@ -8,3 +8,4 @@ I am June Vic Cadayona, you can also call me Cadz | Jvcadz. I am a web developer
 
 PS: I still be updating my information and maybe soon, I'll be uploading my portfolio. See you next time 👋
 
+-- Also, if you're wondering why some repositories aren't finished, it's because they've been decommissioned due to client cancellation. Maybe I'll delete those repositories shortly or keep them.
